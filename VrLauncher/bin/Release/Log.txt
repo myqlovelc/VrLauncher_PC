@@ -1,0 +1,111 @@
+2016/8/11 20:07:55: Server Started
+2016/8/11 20:10:50: CmdReceiver Update GetData
+2016/8/11 20:10:50: remoteIP:192.168.1.101
+2016/8/11 20:10:50: Receive msg REQUEST_PingService
+2016/8/11 20:10:50: Ping Ack Ip: 192.168.1.101, Port:5275
+2016/8/11 20:10:58: CmdReceiver Update GetData
+2016/8/11 20:10:58: remoteIP:192.168.1.101
+2016/8/11 20:10:58: LaunchRequestHandler_Handle: 
+LaunchAppRequest:
+<b>EXEPath</b>: C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe
+<b>Arguments</b>: 
+<b>ControllerIP</b>: 192.168.1.101
+<b>ControllerPort</b>: 5275
+<b>KeepAlive</b>: 2
+
+_state: Idle
+
+2016/8/11 20:10:58: Startup process
+startInfo.FileName: C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe
+startInfo.Arguments: 
+startInfo.WorkingDirectory: C:\Software\zdjiang\VideoPlayerExecutable
+
+2016/8/11 20:10:58: Startup res:True
+2016/8/11 20:10:58: SendLaunchOK: <head:<ID:0, NodeID:0, Type:ACK_Launch_OK, RequestID:48>, RequestID:48, Status:OK, AppName:C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe to 192.168.1.101:5275
+2016/8/11 20:10:58: Start KeepAliveLoop success
+2016/8/11 22:40:10: CmdReceiver Update GetData
+2016/8/11 22:40:10: remoteIP:192.168.1.101
+2016/8/11 22:40:10: Receive msg REQUEST_PingService
+2016/8/11 22:40:10: Ping Ack Ip: 192.168.1.101, Port:5284
+2016/8/11 22:40:16: CmdReceiver Update GetData
+2016/8/11 22:40:16: remoteIP:192.168.1.101
+2016/8/11 22:40:16: Receive msg <head:<ID:83, NodeID:0, Type:REQUEST_ShutdownPlayer, RequestID:-1>, ControllerPort:5284>
+2016/8/11 22:40:16: shutdown_!=null
+2016/8/11 22:40:16: _lastProcess != null
+2016/8/11 22:40:23: CmdReceiver Update GetData
+2016/8/11 22:40:23: remoteIP:192.168.1.101
+2016/8/11 22:40:23: LaunchRequestHandler_Handle: 
+LaunchAppRequest:
+<b>EXEPath</b>: C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe
+<b>Arguments</b>: 
+<b>ControllerIP</b>: 192.168.1.101
+<b>ControllerPort</b>: 5284
+<b>KeepAlive</b>: 2
+
+_state: Idle
+
+2016/8/11 22:40:23: Process is already running
+2016/8/11 22:40:23: SendLaunchOK: <head:<ID:0, NodeID:0, Type:ACK_Launch_OK, RequestID:91>, RequestID:91, Status:IsRunning, AppName:C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe(Launched elsewhere) to 192.168.1.101:5284
+2016/8/11 22:48:11: CmdReceiver Update GetData
+2016/8/11 22:48:11: remoteIP:192.168.1.101
+2016/8/11 22:48:11: Receive msg REQUEST_PingService
+2016/8/11 22:48:11: Ping Ack Ip: 192.168.1.101, Port:5275
+2016/8/11 22:52:11: CmdReceiver Update GetData
+2016/8/11 22:52:11: remoteIP:192.168.1.101
+2016/8/11 22:52:11: Receive msg REQUEST_PingService
+2016/8/11 22:52:11: Ping Ack Ip: 192.168.1.101, Port:5275
+2016/8/11 22:52:13: CmdReceiver Update GetData
+2016/8/11 22:52:13: remoteIP:192.168.1.101
+2016/8/11 22:52:13: LaunchRequestHandler_Handle: 
+LaunchAppRequest:
+<b>EXEPath</b>: C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe
+<b>Arguments</b>: 
+<b>ControllerIP</b>: 192.168.1.101
+<b>ControllerPort</b>: 5275
+<b>KeepAlive</b>: 2
+
+_state: Idle
+
+2016/8/11 22:52:13: Startup process
+startInfo.FileName: C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe
+startInfo.Arguments: 
+startInfo.WorkingDirectory: C:\Software\zdjiang\VideoPlayerExecutable
+
+2016/8/11 22:52:13: Startup res:True
+2016/8/11 22:52:13: SendLaunchOK: <head:<ID:0, NodeID:0, Type:ACK_Launch_OK, RequestID:5>, RequestID:5, Status:OK, AppName:C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe to 192.168.1.101:5275
+2016/8/11 22:52:13: Start KeepAliveLoop success
+2016/8/11 22:52:23: CmdReceiver Update GetData
+2016/8/11 22:52:23: remoteIP:192.168.1.101
+2016/8/11 22:52:23: Receive msg <head:<ID:13, NodeID:0, Type:REQUEST_ShutdownPlayer, RequestID:-1>, ControllerPort:5275>
+2016/8/11 22:52:23: shutdown_!=null
+2016/8/11 22:52:23: _lastProcess != null
+2016/8/11 22:52:23: _lastProcess.Responding true
+2016/8/11 22:52:23: pos1
+2016/8/11 22:52:23: _lastProcess.MainWindowHandle != IntPtr.Zero
+2016/8/11 22:52:23: pos2
+2016/8/11 22:52:23: before close process
+2016/8/11 22:52:23: after close process
+2016/8/11 22:52:23: HandleShutdown:
+CloseMainWindow: VideoPlayerUnity
+Close _lastProcess: VrPlayer_Vive
+
+2016/8/11 22:52:25: CmdReceiver Update GetData
+2016/8/11 22:52:25: remoteIP:192.168.1.101
+2016/8/11 22:52:25: LaunchRequestHandler_Handle: 
+LaunchAppRequest:
+<b>EXEPath</b>: C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe
+<b>Arguments</b>: 
+<b>ControllerIP</b>: 192.168.1.101
+<b>ControllerPort</b>: 5275
+<b>KeepAlive</b>: 2
+
+_state: Idle
+
+2016/8/11 22:52:25: Startup process
+startInfo.FileName: C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe
+startInfo.Arguments: 
+startInfo.WorkingDirectory: C:\Software\zdjiang\VideoPlayerExecutable
+
+2016/8/11 22:52:25: Startup res:True
+2016/8/11 22:52:25: SendLaunchOK: <head:<ID:0, NodeID:0, Type:ACK_Launch_OK, RequestID:17>, RequestID:17, Status:OK, AppName:C:\Software\zdjiang\VideoPlayerExecutable\VrPlayer_Vive.exe to 192.168.1.101:5275
+2016/8/11 22:52:25: Start KeepAliveLoop success

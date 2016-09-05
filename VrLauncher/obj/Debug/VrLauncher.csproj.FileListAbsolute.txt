@@ -1,0 +1,9 @@
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\bin\Debug\VrLauncher.exe.config
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\bin\Debug\VrLauncher.exe
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\bin\Debug\VrLauncher.pdb
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\obj\Debug\VrLauncher.csprojResolveAssemblyReference.cache
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\obj\Debug\VrLauncher.Properties.Resources.resources
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\obj\Debug\VrLauncher.csproj.GenerateResource.Cache
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\obj\Debug\VrLauncher.exe
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\obj\Debug\VrLauncher.pdb
+F:\zdjiang\CGL_VrPlayer_Vive\VrLauncher\VrLauncher\obj\Debug\VrService.Form1.resources

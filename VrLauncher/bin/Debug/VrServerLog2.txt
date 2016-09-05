@@ -1,0 +1,36 @@
+2016/7/26 21:47:11: Server Started
+2016/7/26 21:47:17: CmdReceiver Update GetData
+2016/7/26 21:47:17: remoteIP:192.168.1.102
+2016/7/26 21:47:17: LaunchRequestHandler_Handle: 
+LaunchAppRequest:
+<b>EXEPath</b>: F:\zdjiang\CGL_VrPlayer_Vive\VideoPlayerExecutable\VrPlayer_Vive.exe
+<b>Arguments</b>: 
+<b>ControllerIP</b>: 192.168.1.102
+<b>ControllerPort</b>: 5278
+<b>KeepAlive</b>: 2
+
+_state: Idle
+
+2016/7/26 21:47:17: Startup process
+startInfo.FileName: F:\zdjiang\CGL_VrPlayer_Vive\VideoPlayerExecutable\VrPlayer_Vive.exe
+startInfo.Arguments: 
+startInfo.WorkingDirectory: F:\zdjiang\CGL_VrPlayer_Vive\VideoPlayerExecutable
+
+2016/7/26 21:47:17: Startup res:True
+2016/7/26 21:47:17: SendLaunchOK: <head:<ID:0, NodeID:0, Type:ACK_Launch_OK, RequestID:5765>, RequestID:5765, Status:OK, AppName:F:\zdjiang\CGL_VrPlayer_Vive\VideoPlayerExecutable\VrPlayer_Vive.exe to 192.168.1.102:5278
+2016/7/26 21:47:17: Start KeepAliveLoop success
+2016/7/26 21:47:30: CmdReceiver Update GetData
+2016/7/26 21:47:30: remoteIP:192.168.1.102
+2016/7/26 21:47:30: Receive msg <head:<ID:5774, NodeID:0, Type:REQUEST_ShutdownPlayer, RequestID:-1>, ControllerPort:5278>
+2016/7/26 21:47:30: shutdown_!=null
+2016/7/26 21:47:30: _lastProcess != null
+2016/7/26 21:47:30: _lastProcess.Responding true
+2016/7/26 21:47:30: pos1
+2016/7/26 21:47:30: _lastProcess.MainWindowHandle != IntPtr.Zero
+2016/7/26 21:47:30: pos2
+2016/7/26 21:47:30: before close process
+2016/7/26 21:47:30: after close process
+2016/7/26 21:47:30: HandleShutdown:
+CloseMainWindow: VideoPlayerUnity
+Close _lastProcess: VrPlayer_Vive
+
